@@ -10,7 +10,7 @@ React redux node redhat keyclock
 ## Client
 
 * git clone from repo
-* cd react-redux-node-redhatsso
+* cd "react-redux-node-redhatsso\client"
 * edit keycloak.json according to keycloak config
 * npm install 
 * npm run in 3000 port
