@@ -1,0 +1,11 @@
+{
+  "realm": "MyDemo",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "my-react-app",
+  "credentials": {
+    "secret": "c8debd7f-8f1d-4f1f-8b83-f8394670a6d4"
+  },
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}
